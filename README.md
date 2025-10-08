@@ -1,4 +1,4 @@
-# 📚 AprendiendoJava
+# 📚 Learning Java
 
 This repository contains my **first steps learning Java**, including simple programs, basic exercises, and practice examples.  
 The goal is to document my learning process and build a solid foundation in the Java programming language.
