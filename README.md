@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="100"/>
+</p>
 # 📚 Learning Java
 
 This repository contains my **first steps learning Java**, including simple programs, basic exercises, and practice examples.  
