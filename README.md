@@ -37,4 +37,4 @@ El objetivo es documentar mi proceso de aprendizaje y construir una base sólida
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/tomasgz7/LearningJava
-   cd AprendiendoJava
+   cd LearningJava
