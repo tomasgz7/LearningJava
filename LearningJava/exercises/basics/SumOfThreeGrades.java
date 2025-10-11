@@ -1,4 +1,6 @@
-package Exercises;
+package LearningJava.exercises.basics;
+
+
 
 import java.util.Scanner;
 
