@@ -1,4 +1,4 @@
-package LearningJava.exercises.basics;
+package LearningJava.exercises.operators;
 /*  
  * Write a program that calculates the square of a sum.
  */

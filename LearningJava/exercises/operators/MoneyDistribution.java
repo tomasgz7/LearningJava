@@ -1,4 +1,4 @@
-package LearningJava.exercises.basics;
+package LearningJava.exercises.operators;
 /*  
 Exercise 2: Guillermo has N dollars. Luis owns half of what Guillermo has. Juan owns half of the total amount that Luis and Guillermo have together.
 Write a program that calculates and prints the total amount of money they have combined.

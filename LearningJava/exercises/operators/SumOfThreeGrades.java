@@ -1,4 +1,4 @@
-package LearningJava.exercises.basics;
+package LearningJava.exercises.operators;
 
 
 
