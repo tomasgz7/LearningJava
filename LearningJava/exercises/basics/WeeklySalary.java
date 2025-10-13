@@ -17,7 +17,10 @@ public class WeeklySalary {
         hourlyWage = input.nextFloat();
 
         total = hours * hourlyWage;
+     
         System.out.println("The total weekly salary is: " + total);
+
+        input.close();
     }
     
 }
