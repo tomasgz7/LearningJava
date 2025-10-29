@@ -1,4 +1,4 @@
-package LearningJava.exercises.practice;
+package LearningJava.exercises.PracticeOfArrays;
 
 public class TotalSuma {
     public static void main(String[] args) {
