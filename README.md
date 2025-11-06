@@ -2,33 +2,41 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="100"/>
 </p>
 
-# 📚 Learning Java
+# Learning Java
 
-Repositorio dedicado a mis **primeros pasos aprendiendo Java**.  
-Incluye programas simples, ejercicios básicos y ejemplos prácticos que documentan mi progreso y consolidan una base sólida en el lenguaje.
-
----
-
-## 🧠 Lo que estoy aprendiendo
-
-- Sintaxis y estructura básica de programas en Java  
-- Programación Orientada a Objetos (POO)  
-- Paquetes, clases y métodos  
-- Entrada y salida por consola  
-- Estructuras de control (condicionales y bucles)  
-- Manejo básico de errores  
-- Introducción a **Spring Boot** (en próximas etapas 🚀)
+Repositorio dedicado a construir una base sólida en **Java** desde cero.  
+Incluye ejercicios, ejemplos prácticos y conceptos esenciales que registran mi proceso real de aprendizaje.
 
 ---
 
-## 🛠️ Cómo ejecutar el código
+### 📘 Contenido
+- Sintaxis y estructura básica del lenguaje
+- Tipos de datos y operadores
+- Programación Orientada a Objetos (POO)
+- Clases, objetos y métodos
+- Estructuras de control (condicionales y bucles)
+- Manejo de excepciones (`try / catch`)
+- Entrada y salida por consola
+- Ejercicios prácticos y desafíos básicos
 
-1. **Clonar el repositorio**
-   ```bash
-   git clone https://github.com/tomasgz7/LearningJava.git
-   cd LearningJava
 ---
 
-<p align="center">
-  ⭐ <i>Este repositorio refleja mi proceso de aprendizaje en Java: escribir código claro, entender la base y avanzar paso a paso hacia una perspectiva full stack.</i>
-</p>
+### 🎯 Objetivo del proyecto
+Dominar los fundamentos del lenguaje antes de avanzar hacia desarrollo web, bases de datos o temas avanzados.  
+Cada archivo busca entender el _por qué_ de las cosas, no solo el _cómo_.
+
+---
+
+### 🛠️ Entorno de desarrollo
+- **Java 23**
+- **IntelliJ IDEA** o **Visual Studio Code**
+- Código sin dependencias externas (ni Maven ni Gradle)
+
+---
+
+### ▶️ Cómo ejecutar
+```bash
+git clone https://github.com/tomasgz7/LearningJava.git
+cd LearningJava
+# Abrir en el IDE y ejecutar los archivos con método main
+
